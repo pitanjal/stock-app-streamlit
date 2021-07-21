@@ -3,6 +3,5 @@ numpy==1.17.1
 pandas
 streamlit
 ta-lib==0.4.19
-time
 yfinance
 requests
