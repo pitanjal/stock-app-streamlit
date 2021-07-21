@@ -2,7 +2,6 @@ alice-blue==1.0.1
 numpy==1.17.1
 pandas
 streamlit
-logging
 talib
 time
 yfinance
