@@ -2,7 +2,7 @@ alice-blue==1.0.1
 numpy==1.17.1
 pandas
 streamlit
-talib
+ta-lib==0.4.19
 time
 yfinance
 requests
