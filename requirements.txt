@@ -2,6 +2,6 @@ alice-blue==1.0.1
 numpy==1.17.1
 pandas
 streamlit
-ta-lib
+ta-lib==0.4.17
 yfinance
 requests
