@@ -2,5 +2,8 @@ alice-blue==1.0.1
 numpy==1.17.1
 pandas
 streamlit
-xlrd >= 1.0.0
-openpyxl
+logging
+talib
+time
+yfinance
+requests
