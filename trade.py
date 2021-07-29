@@ -1,4 +1,7 @@
 import streamlit as st
+import yfinance as yf
+import datetime
+import pandas as pd
 import requests
 import os
 import sys
@@ -40,7 +43,6 @@ except ImportError:
     subprocess.check_call([sys.executable, "-m", "pip", "install", "--global-option=build_ext", "--global-option=-L/home/appuser/lib/", "--global-option=-I/home/appuser/include/", "ta-lib"])
 finally:
     import talib
-
 # here goes your code
 import streamlit as st
 import numpy as np
